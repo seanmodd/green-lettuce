@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: Sean Edit
+    title: Sean Edit is here
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
